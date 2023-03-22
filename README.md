@@ -108,4 +108,4 @@ const options = ref({
 
 ## License
 
-[MIT](https://https://github.com/hasakxu/vue_manage_system/blob/master/LICENSE)
+[MIT](https://https://github.com/hasakxu/vue_manage_system/LICENSE)
